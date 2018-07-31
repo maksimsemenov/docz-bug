@@ -1,0 +1,12 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "semicolon": false,
+    "quotemark": false,
+    "trailing-comma": false,
+    "ordered-imports": false,
+    "interface-name": false,
+    "arrow-parens": [true, "ban-single-arg-parens"],
+    "member-access": false
+  }
+}

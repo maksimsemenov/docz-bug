@@ -1,0 +1,26 @@
+{
+  "name": "docz-bug",
+  "version": "1.0.0",
+  "description": "Repo to reproduce a docz bug",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.5",
+    "@types/gapi": "0.0.36",
+    "@types/gapi.auth2": "0.0.47",
+    "@types/jest": "^23.3.0",
+    "@types/node": "^10.5.3",
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "docz": "^0.7.1",
+    "typescript": "^2.9.2"
+  }
+}
